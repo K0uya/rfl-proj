@@ -4,3 +4,5 @@ nav .coming-soon{display:flex;align-items:center;gap:10px;cursor:default;text-de
 
 .section-nav{border-bottom:1px solid var(--line);padding-top:14px;padding-bottom:14px;gap:16px}.section-nav a{border:0;border-radius:0;padding:3px 0;color:var(--muted);font-size:13px}.method-note{font-size:16px;color:var(--muted)}#playback-status:empty{display:none}.rollout-header{flex-wrap:wrap}video{object-fit:contain}.paper-results img{min-width:0}@media(max-width:650px){.section-nav{gap:10px 18px}}
 
+
+.authors{font-size:16px;line-height:1.85;margin-top:22px}.author{white-space:nowrap}.authors a{color:var(--ink);text-decoration:none}.authors a:hover{color:var(--green);text-decoration:underline}.authors sup,.affiliations sup{font-size:.65em;margin-left:2px}.affiliations{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:12px;color:var(--muted);line-height:1.7;margin:12px 0 20px}@media(max-width:650px){.authors{font-size:14px}.affiliations{gap:4px 12px}}
